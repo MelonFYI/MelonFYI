@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Callum Jones, the owner of MelonFYI LTD, a sof
 
 MelonFYI LTD is a software development company dedicated to providing innovative solutions for businesses. We believe in the power of technology to transform organizations and streamline processes.
 
-Visit our website at [melon.fyi](https://www.melon.fyi) to learn more about our services and projects.
+Visit our website at [melon.fyi](https://melon.fyi) to learn more about our services and projects.
 
 ## Contact Information
 
